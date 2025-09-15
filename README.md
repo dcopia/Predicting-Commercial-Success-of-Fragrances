@@ -17,13 +17,4 @@ The project uses the **Fragrance Dataset** scraped from [Fragrantica.com](https:
 - Gender  
 - Notes (top, middle, base)  
 - Main accords  
-- Consumer ratings and rating counts  
-
-### How to use it in Colab:
-
-1. **Download the dataset** from this repository (included in the `.zip`)  
-2. Once the notebook is open in Colab, **upload the file manually** using this code:
-
-```python
-from google.colab import files
-uploaded = files.upload()
+- Consumer ratings and rating counts 
